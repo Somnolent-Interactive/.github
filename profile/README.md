@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Somnolent-Interactive/.github/refs/heads/main/assets/banner.svg)
+![Banner](https://raw.githubusercontent.com/Somnolent-Interactive/.github/refs/heads/main/assets/banner.png)
 
 
 #
